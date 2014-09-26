@@ -1,0 +1,11 @@
+[05:52:18] [main/INFO]: Setting user: Player723
+[05:52:28] [Client thread/INFO]: LWJGL Version: 2.9.1
+[05:52:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MrabEzreb's Iriduim Mod
+[05:53:01] [Sound Library Loader/INFO]: Sound engine started
+[05:53:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[05:53:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[05:53:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MrabEzreb's Iriduim Mod
+[05:53:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[05:53:31] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[05:53:33] [Sound Library Loader/INFO]: Sound engine started
+[05:53:58] [Client thread/INFO]: Stopping!

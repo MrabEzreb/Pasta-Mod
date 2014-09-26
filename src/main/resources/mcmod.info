@@ -1,0 +1,16 @@
+[
+{
+  "modid": "IridiumMod",
+  "name": "MrabEzreb's Iriduim Mod",
+  "description": "Continue Video One At 12:20. Continue Video Two At XX:XX. Continue Video Three At 00:16. Hey minecraftians, youtubers, hippies, and hobos! THIS IS MEH MOD!!!!!!!",
+  "version": "0.0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mrab Ezreb"],
+  "credits": "The Forge and FML guys, Bytecraft, and Techgeek1019";
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

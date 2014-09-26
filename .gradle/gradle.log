@@ -1,0 +1,20 @@
+****************************
+ Powered By MCP:             
+ http://mcp.ocean-labs.de/   
+ Searge, ProfMobius, Fesh0r, 
+ R4wk, ZeuX, IngisKahn, bspkrs
+ MCP Data version : unknown
+****************************
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Problem configuring task :setupDecompWorkspace from command line.
+> Unknown command-line option '--refresh-depenancies'.
+
+* Try:
+Run gradlew help --task :setupDecompWorkspace to get task usage details. Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 1 mins 14.53 secs
